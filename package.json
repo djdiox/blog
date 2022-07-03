@@ -1,5 +1,32 @@
 {
-  "name": "example-auth-routes",
+  "name": "djdiox-nuxt-blog",
+  "author": "Markus Wagner (djdiox)",
+  "repository": "https://github.com/djdiox/blog.git",
+  "os": [
+    "darwin",
+    "linux",
+    "win32"
+  ],
+  "cpu": [
+    "x64",
+    "x86",
+    "arm"
+  ],
+  "keywords": [
+    "blog",
+    "djing",
+    "music",
+    "nodejs",
+    "nuxt",
+    "web"
+  ],
+  "homepage": "https://djdiox.de",
+  "browser": "chrome",
+  "license": "MIT",
+  "main": ".nuxt/index.js",
+  "engines": {
+    "node": ">=0.10.3 <17"
+  },
   "dependencies": {
     "@nuxtjs/auth": "^4.9.1",
     "@nuxtjs/auth-next": "5.0.0-1648802546.c9880dc",
