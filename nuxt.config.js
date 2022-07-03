@@ -15,14 +15,18 @@ export default {
       { hid: 'description', content: 'Auth Routes example' }
     ]
   },
+ target: 'static',
+  router: {
+       base: '/blog/'
+  },
   buildModules: [
     // Simple usage
     '@nuxtjs/vuetify',
 
     // With options
-    ['@nuxtjs/vuetify', {
+    // ['@nuxtjs/vuetify', {
 
-      /* module options */ }]
+    //   /* module options */ }]
   ],
     /*
   ** Modules
