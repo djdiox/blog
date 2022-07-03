@@ -1,0 +1,32 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/markuswagner/Projects/blog/pages/about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "secret",
+    "path": "/secret",
+    "component": "/Users/markuswagner/Projects/blog/pages/secret.vue",
+    "chunkName": "pages/secret"
+  },
+  {
+    "name": "auth-login",
+    "path": "/auth/login",
+    "component": "/Users/markuswagner/Projects/blog/pages/auth/login.vue",
+    "chunkName": "pages/auth/login"
+  },
+  {
+    "name": "auth-signed-in",
+    "path": "/auth/signed-in",
+    "component": "/Users/markuswagner/Projects/blog/pages/auth/signed-in.vue",
+    "chunkName": "pages/auth/signed-in"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/markuswagner/Projects/blog/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]

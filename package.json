@@ -1,0 +1,22 @@
+{
+  "name": "example-auth-routes",
+  "dependencies": {
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/auth-next": "5.0.0-1648802546.c9880dc",
+    "@nuxtjs/axios": "^5.13.6",
+    "body-parser": "^1.17.2",
+    "dotenv": "^16.0.1",
+    "express": "^4.15.3",
+    "express-session": "^1.15.3",
+    "nuxt": "latest"
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.12.3"
+  }
+}
