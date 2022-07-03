@@ -3,30 +3,35 @@
     "name": "about",
     "path": "/about",
     "component": "/Users/markuswagner/Projects/blog/pages/about.vue",
-    "chunkName": "pages/about"
+    "chunkName": "pages/about",
+    "_name": "_3c96387c"
   },
   {
     "name": "secret",
     "path": "/secret",
     "component": "/Users/markuswagner/Projects/blog/pages/secret.vue",
-    "chunkName": "pages/secret"
+    "chunkName": "pages/secret",
+    "_name": "_a5ef595e"
   },
   {
     "name": "auth-login",
     "path": "/auth/login",
     "component": "/Users/markuswagner/Projects/blog/pages/auth/login.vue",
-    "chunkName": "pages/auth/login"
+    "chunkName": "pages/auth/login",
+    "_name": "_40ba7363"
   },
   {
     "name": "auth-signed-in",
     "path": "/auth/signed-in",
     "component": "/Users/markuswagner/Projects/blog/pages/auth/signed-in.vue",
-    "chunkName": "pages/auth/signed-in"
+    "chunkName": "pages/auth/signed-in",
+    "_name": "_542295f0"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/markuswagner/Projects/blog/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_5c4e1341"
   }
 ]
