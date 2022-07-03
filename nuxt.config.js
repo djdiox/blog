@@ -16,7 +16,7 @@ export default {
     ]
   },
  target: 'static',
-  router: {
+router: {
        base: '/blog/'
   },
   buildModules: [

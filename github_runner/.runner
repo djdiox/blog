@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 21,
+  "agentName": "MacBook",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/j2Amv7AixPN3h0hk6ePi7xUzJz3G8KknX5idOfmru43Vg0uKCM",
+  "gitHubUrl": "https://github.com/djdiox/blog",
+  "workFolder": "_work"
+}

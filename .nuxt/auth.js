@@ -42,14 +42,14 @@ export default function (ctx, inject) {
   // Register strategies
   // auth0
   $auth.registerStrategy('auth0', new Auth0Scheme($auth, {
-  "domain": "djdiox-blog.eu.auth0.com",
-  "client_id": "4ZuN5caw10kPI0rh1nI6e0YkwJUw7B2t",
+  "redirect_uri": "/pages/",
+  "client_id": "XuGa5t917gpMrHJfS5em0JoaAfuro2V8",
   "name": "auth0",
   "endpoints": {
-    "authorization": "https://djdiox-blog.eu.auth0.com/authorize",
-    "userInfo": "https://djdiox-blog.eu.auth0.com/userinfo",
-    "token": "https://djdiox-blog.eu.auth0.com/oauth/token",
-    "logout": "https://djdiox-blog.eu.auth0.com/v2/logout"
+    "authorization": "https://undefined/authorize",
+    "userInfo": "https://undefined/userinfo",
+    "token": "https://undefined/oauth/token",
+    "logout": "https://undefined/v2/logout"
   },
   "scope": [
     "openid",
